@@ -2,7 +2,7 @@
 Проект выполнил Rustem Freelance
 
 ## Используемые технологии:
--HTML
--CSS
--normalize.css
--SVG Sprites
+- HTML
+- CSS
+- normalize.css
+- SVG Sprites
